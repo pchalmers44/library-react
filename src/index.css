@@ -567,6 +567,10 @@ select {
   padding-top: 16px;
 }
 
+.books__row {
+  display: flex;
+}
+
 .book__selected {
   display: flex;
 }

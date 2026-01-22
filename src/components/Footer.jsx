@@ -14,7 +14,7 @@ const Footer = () => {
                     </Link>
                     <div className="footer__list">
                         <Link to="/" className='footer__link'>Home</Link>
-                        <span className="footer__link no-curson">About</span>
+                        <span className="footer__link no-cursor">About</span>
                         <Link to="/books" className='footer__link'>Books</Link>
                         <Link to="/cart" className='footer__link'>Cart</Link>
                     </div>
